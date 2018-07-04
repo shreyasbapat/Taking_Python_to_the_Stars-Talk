@@ -9,4 +9,4 @@ The slides uploaded in the repository are just for reference. Actual slides must
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Juanlu001/icrat-talk/master?filepath=Talk.ipynb)
 
-[![Google Slides](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2000px-Google_2015_logo.svg.png)](https://docs.google.com/presentation/d/1QhGIjuH9NeVeCfxgdPtqRIxoBDBqleSLuAaqTi3mcfM/edit?usp=sharing)
+[![Google Slides](download.png)](https://docs.google.com/presentation/d/1QhGIjuH9NeVeCfxgdPtqRIxoBDBqleSLuAaqTi3mcfM/edit?usp=sharing)
