@@ -1,4 +1,7 @@
 # Through Python to the Stars - Talk 
+
+Visit [SpeakerDeck link](https://speakerdeck.com/shreyasbapat/through-python-to-the-stars) to see my slides.
+
 Slides and Content for the proposed talk in PyCon India 2018
 Link to the proposal: [Click Here!](https://in.pycon.org/cfp/2018/proposals/through-python-to-the-stars-orbital-mechanics-made-easy-and-open-source~dGK5d/)
 
